@@ -1,0 +1,19 @@
+p {
+  color: orange;
+  font-size: 14px;
+  font-weight: normal;
+  font-family: helvetica;
+  letter-spacing: 0.5pt;
+  }
+  
+#commentary {
+  font-weight: bold;
+  }
+  
+h1 {
+  color: grey;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: helvetica;
+  letter-spacing: 0.5pt;
+  }
